@@ -40,12 +40,13 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> **Welcome to my GitHub profile!**
 
 <!-- Weird English generator - https://www.dute.org/weird-fonts -->
-<!-- Hi, I'm Long, (prefer to be called ✨Chandler✨), a passionate self-taught full-stack web developer and a fun software engineer.-->
-<!-- I take great care in the architecture and code quality of the things I build.  -->
+<!-- Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught full-stack web developer.-->
+<!-- I take great care in the architecture of services,products and code quality of the things I build.  -->
 <!-- I am also an open-source enthusiast and maintainer.  -->
 <!-- I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. -->
 
-𝑯𝒊, 𝑰'𝒎 𝑳𝒐𝒏𝒈, (𝒑𝒓𝒆𝒇𝒆𝒓 𝒕𝒐 𝒃𝒆 𝒄𝒂𝒍𝒍𝒆𝒅 ✨𝑪𝒉𝒂𝒏𝒅𝒍𝒆𝒓✨), 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒆𝒍𝒇-𝒕𝒂𝒖𝒈𝒉𝒕 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝒂 𝒇𝒖𝒏 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught full-stack web developer
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
 
