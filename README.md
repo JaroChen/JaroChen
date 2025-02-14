@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> **Welcome to my GitHub profile!**
 
 <!-- Weird English generator - https://www.dute.org/weird-fonts -->
-<!-- Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught full-stack web developer.-->
+<!-- Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught llmops.-->
 <!-- I take great care in the architecture of services,products and code quality of the things I build.  -->
 <!-- I am also an open-source enthusiast and maintainer.  -->
 <!-- I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. -->
