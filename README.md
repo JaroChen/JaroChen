@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> **Welcome to my GitHub profile!**
 
 <!-- Weird English generator - https://www.dute.org/weird-fonts -->
-<!-- Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught llmops.-->
+<!-- Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught LLMops.-->
 <!-- I take great care in the architecture of services,products and code quality of the things I build.  -->
 <!-- I am also an open-source enthusiast and maintainer.  -->
 <!-- I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. -->
 
-Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught full-stack web developer
+Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cloud service and a passionate self-taught full-stack LLMops developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
@@ -134,21 +134,22 @@ Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cl
 
 ### College Projects
 
-- [TCD-Real_time_Rendering](https://github.com/Chenmo1212/TCD-Real_time_Rendering)
-- [TCD-5C1_MOTION_PICTURE_ENGINEERING](https://github.com/Chenmo1212/TCD-5C1_MOTION_PICTURE_ENGINEERING)
-- [TCD-Real-time_Animation](https://github.com/Chenmo1212/TCD-Real-time_Animation)
-- [TCD-Augument_Reality](https://github.com/Chenmo1212/TCD-Augument_Reality)
-- [TCD-Mathematics_of_Light_and_Sound](https://github.com/Chenmo1212/TCD-Mathematics_of_Light_and_Sound)
-- [TCD-Research_and_Innovation_Methods](https://github.com/Chenmo1212/TCD-Research_and_Innovation_Methods)
-- [TCD-Data_Analysis](https://github.com/Chenmo1212/TCD-Data_Analysis)
-- [TCD-Computer_Vision](https://github.com/Chenmo1212/TCD-Computer_Vision)
-- [TCD-Machine_Learning](https://github.com/Chenmo1212/TCD-Machine_Learning)
-- [TCD-Advanced_Software_Engineering](https://github.com/Chenmo1212/TCD-Advanced_Software_Engineering)
-- [TCD_Computer-Graphics](https://github.com/Chenmo1212/TCD_Computer-Graphics)
+- [TCD-Text_Analysis](https://github.com/JaroChen/TCD/tree/main/CS7IS4-Text_Analysis)
+- [TCD-Optimisation Algorithms for Data Analysis](https://github.com/JaroChen/TCD/tree/main/CS7DS2-Optimisation%20Algorithms%20for%20Data%20Analysis)
+- [TCD-CityDisasterResponseSystem](https://github.com/JaroChen/CityDisasterResponseSystem)
+- [TCD-Artificial_Intelligence](https://github.com/JaroChen/TCD/tree/main/CS7IS2-Artificial_Intelligence)
+- [TCD-Augument_Reality](https://github.com/JaroChen/TCD/tree/main/TCD-Augument_Reality)
+- [TCD-Information Retrieval and Web Seaech](https://github.com/JaroChen/TCD/tree/main/CS7IS3-Information%20Retrieval%20and%20Web%20Seaech)
+- [TCD-Research_and_Innovation_Methods](https://github.com/JaroChen/TCD/tree/main/TCD-Research_and_Innovation_Methods)
+- [TCD-Data_Analysis](https://github.com/JaroChen/TCD/tree/main/TCD-Data_Analysis)
+- [TCD-Computer_Vision](https://github.com/JaroChen/TCD/tree/main/TCD-Computer_Vision)
+- [TCD-Machine_Learning](https://github.com/JaroChen/TCD/tree/main/TCD-Machine_Learning)
+- [TCD-Advanced_Software_Engineering](https://github.com/JaroChen/TCD/tree/main/TCD-Advanced_Software_Engineering)
+- [TCD_Computer-Graphics](https://github.com/JaroChen/TCD/tree/main/TCD_Computer-Graphics)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" /> Q&A
 
 - **Why do you have so many names?**
-    - My birth name is **Long**. But when I first came into contact with the Internet, I didn't want to expose my real name, so I gave myself a nickname **ChenMo**. After using it for a long time, the email address, the domain name of the website, and even many social media accounts are all named after **ChenMo**. Later, I found that this name was not easy to pronounce for friends from some countries, so I gave another English name **Chandler**. All three names are now in use. You can choose any name you like to call me.
+    - My birth name is **Long & Hard**. But when I first came into contact with the Internet, I didn't want to expose my real name, so I gave myself a nickname **Jaro**. Sometimes, my friends call me **JaroChen**. After using it for a long time, the email address, the domain name of the website, and even many social media accounts are all named after **Jaro**. Later, I found that this name was not easy to pronounce for friends from some countries, so I gave another English name **JaroChen**. All three names are now in use. You can choose any name you like to call me.
     - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" alt="Zany Face" width="25" height="25" />
