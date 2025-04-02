@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <a href="mailto:cjingp7@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Email&message=JaroChen&color=7BB32E&logo=Gmail"/></a>
     <!-- https://visitor-badge.glitch.me/ -->
     <!-- https://github.com/Nathan13888/VisitorBadgeReloaded#-migrating-from-visitor-badge -->
-    <img src="https://vbr.wocr.tk/badge?page_id=JaroChen.visitors&left_color=green&right_color=red&hit=false" alt="Visitor" />
+    <img src="https://vbr.wocr.tk/badge?page_id=visitors&left_color=green&right_color=red&hit=false" alt="Visitor" />
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" />
 </p>
 
@@ -97,8 +97,8 @@ Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cl
 <a href="#"><img alt="Blender" src="https://img.shields.io/badge/-Blender-e7e9ef?logo=Blender&logoColor=ea7600" /></a>
 <p/>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> How to reach me: ✉️ [Email](mailto:chenmo991212@gmail.com)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about anything, I am happy to help;
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> How to reach me: ✉️ [Email](mailto:cjingp7@gmail.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about anything, I am happy to help, and if you interested LLMops & Others;
 
 
 <picture>
@@ -116,6 +116,8 @@ Hi, I'm Jingpeng, (prefer to be called ✨Jaro✨), a solution architect base cl
 ### Personal Portfolio
 - [Front-end](https://github.com/JaroChen) - Portfolio developed in `html`, `css` and `javascript`.
 - [Back-end](https://github.com/JaroChen) - A message board back-end project developed using the `flask` framework based on `python`.
+- [AIGC](https://github.com/JaroChen/AIGC) - A electric-shop project developed using the `djingo&javaboot` framework based on `python&java` and `deepseek&gemini`.
+- [Agent](https://github.com/JaroChen/Agent) - (pending).
 
 
 ### Others
